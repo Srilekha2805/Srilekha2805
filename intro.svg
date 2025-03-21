@@ -14,7 +14,7 @@
         }
 
         .container {
-          background-color: black;
+          background-color: #603F26;
 
           width: 100%;
           height: 300px;
@@ -22,9 +22,19 @@
           display: flex;
           justify-content: center;
           align-items: center;
+          flex-direction: column;
           color: white;
 
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        .sub-text {
+          color: white;
+          font-family: Lucida Handwriting;
+          width: 100%;
+          display: flex;
+          gap: 10px;
+          justify-content: center;
         }
 
         .hi {
@@ -38,10 +48,14 @@
             animation: none;
           }
         }
+        
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
+        <h1>Hey there, This is Srilekha here! <div class="hi">👋</div></h1>
+        <div class="sub-text">
+        <p> Software Engineer &#127911; Python &amp; Flutter Enthusiast </p>
+        </div>
       </div>
     </div>
   </foreignObject>
