@@ -12,7 +12,7 @@
 
 <h2> &nbsp;Github Stats</h2>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Srilekha2805&show_icons=true&theme=radical&rank_icon=github&line_height=24)](https://github.com/Srilekha2805/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Srilekha2805&show_icons=true&theme=radical&rank_icon=github&line_height=24&card_width=450)](https://github.com/Srilekha2805/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srilekha2805&layout=compact&size_weight=0.5&count_weight=0.5&card_width=450&theme=radical&langs_count=8)
 
 <h2> &nbsp;Technologies Learned</h2>
