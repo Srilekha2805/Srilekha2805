@@ -13,10 +13,10 @@
 <h2> &nbsp;Github Stats</h2>
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Srilekha2805&show_icons=true&theme=radical&rank_icon=github&card_width=400" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Srilekha2805&show_icons=true&theme=radical&rank_icon=github&card_width=320" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srilekha2805&layout=compact&size_weight=0.5&count_weight=0.5&card_width=400&theme=radical&langs_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srilekha2805&layout=compact&size_weight=0.5&count_weight=0.5&card_width=320&theme=radical&langs_count=8" />
 </a>
 
 <h2> &nbsp;Technologies Learned</h2>
