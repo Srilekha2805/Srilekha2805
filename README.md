@@ -6,17 +6,17 @@
 <p>I'm a software engineer with almost 3 years of experience in ASP.NET+React js+Mongodb tech-stack. Touched upon angular to some extent as well.
    Passionate on Flutter,Python and Music. In general possess an immense interest in learning new stuff.
    <li>🔭 I’m currently working on advanced concepts in dotnet and react like entity framework and redux</li>
-   <li>🌱 I’m currently learning opencv and other </li>
+   <li>🌱 I’m currently learning opencv </li>
    <li>👯 I’m looking to collaborate on computer vision and AI projects to begin my journey in it</li>
 </p>
 
 <h2> &nbsp;Github Stats</h2>
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Srilekha2805&show_icons=true&theme=radical&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Srilekha2805&show_icons=true&theme=radical&rank_icon=github&card_width=400" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srilekha2805&layout=compact&size_weight=0.5&count_weight=0.5&card_width=450&theme=radical&langs_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srilekha2805&layout=compact&size_weight=0.5&count_weight=0.5&card_width=400&theme=radical&langs_count=8" />
 </a>
 
 <h2> &nbsp;Technologies Learned</h2>
